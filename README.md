@@ -1,4 +1,4 @@
-# Minecraft-Automation
+# Minecraft-Minion
 A implementation of a minion-like minecraft entity.
 
 # Features
