@@ -3,8 +3,8 @@
 
 ## Usage
   To use this app, you need to have node js and mineflayer
-  - **npm install node.js**
-  - **npm install mineflayer**
+  1. **npm install node.js**
+  2. **npm install mineflayer**
 
 # Features
   - Fishing command
